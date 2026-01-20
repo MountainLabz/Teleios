@@ -1,5 +1,5 @@
 # Teleios
-My raster voxel engine of the ages.
+Pure C++ and OpenGL voxel engine.
 
 
 
